@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Screenshot
 
-- login screen shot
+- login screen shot<br />
   ![](./src/images/login.png)<br />
 
 - receive otp screen shot (you get this otp in your email)<br />
