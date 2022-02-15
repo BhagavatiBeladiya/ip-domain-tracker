@@ -31,14 +31,14 @@ Users should be able to:
 ### Screenshot
 
 - login screen shot
-  ![](./src/images/login.png)
+  ![](./src/images/login.png)<br />
 
-- receive otp screen shot (you get this otp in your email)
-  ![](./src/images/otp.png)
-  ![](./src/images/trust.png)
+- receive otp screen shot (you get this otp in your email)<br />
+  ![](./src/images/otp.png)<br />
+  ![](./src/images/trust.png)<br />
 
 - Main Page
-  ![](./src/images/main.png)
+  ![](./src/images/main.png)<br />
 
 ### Links
 
