@@ -1,0 +1,31 @@
+.containerStyle {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f9f9f9;
+}
+
+.title {
+  text-align: center;
+  margin-bottom: 20px;
+  color: #494aa8;
+}
+section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.formContainer {
+  padding: 1rem;
+  background-color: rgb(255, 255, 255);
+  box-shadow: rgb(206 206 206) 5px 5px 20px;
+  height: 300px;
+  width: 400px;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
